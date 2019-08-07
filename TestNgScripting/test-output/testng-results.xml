@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestNgPractice" duration-ms="60779" started-at="2019-08-06T15:05:41Z" finished-at="2019-08-06T15:06:42Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="60779" started-at="2019-08-06T15:05:41Z" finished-at="2019-08-06T15:06:42Z">
+      <class name="ClassesPackage.Jabong">
+        <test-method status="PASS" signature="startup()[pri:0, instance:ClassesPackage.Jabong@25e70]" name="startup" is-config="true" duration-ms="8011" started-at="2019-08-06T11:06:31Z" finished-at="2019-08-06T11:06:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="shop()[pri:0, instance:ClassesPackage.Jabong@25e70]" name="shop" duration-ms="1523" started-at="2019-08-06T11:06:39Z" finished-at="2019-08-06T11:06:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shop -->
+      </class> <!-- ClassesPackage.Jabong -->
+      <class name="ClassesPackage.Flipkart">
+        <test-method status="PASS" signature="startup()[pri:0, instance:ClassesPackage.Flipkart@1531931]" name="startup" is-config="true" duration-ms="7317" started-at="2019-08-06T11:06:14Z" finished-at="2019-08-06T11:06:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="login()[pri:0, instance:ClassesPackage.Flipkart@1531931]" name="login" duration-ms="9373" started-at="2019-08-06T11:06:22Z" finished-at="2019-08-06T11:06:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:ClassesPackage.Flipkart@1531931]" name="Teardown" is-config="true" duration-ms="957" started-at="2019-08-06T11:06:41Z" finished-at="2019-08-06T11:06:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:ClassesPackage.Jabong@25e70]" name="Teardown" is-config="true" duration-ms="0" started-at="2019-08-06T11:06:42Z" finished-at="2019-08-06T11:06:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- ClassesPackage.Flipkart -->
+      <class name="ClassesPackage.Amazon">
+        <test-method status="PASS" signature="startup()[pri:0, instance:ClassesPackage.Amazon@163e9ab]" name="startup" is-config="true" duration-ms="8395" started-at="2019-08-06T11:05:41Z" finished-at="2019-08-06T11:05:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="login()[pri:0, instance:ClassesPackage.Amazon@163e9ab]" name="login" duration-ms="1000" started-at="2019-08-06T11:05:49Z" finished-at="2019-08-06T11:05:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:ClassesPackage.Amazon@163e9ab]" name="teardown" is-config="true" duration-ms="959" started-at="2019-08-06T11:05:50Z" finished-at="2019-08-06T11:05:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="startup()[pri:0, instance:ClassesPackage.Amazon@163e9ab]" name="startup" is-config="true" duration-ms="7770" started-at="2019-08-06T11:05:51Z" finished-at="2019-08-06T11:05:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="search()[pri:0, instance:ClassesPackage.Amazon@163e9ab]" name="search" duration-ms="6337" started-at="2019-08-06T11:05:59Z" finished-at="2019-08-06T11:06:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:ClassesPackage.Amazon@163e9ab]" name="teardown" is-config="true" duration-ms="938" started-at="2019-08-06T11:06:05Z" finished-at="2019-08-06T11:06:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="startup()[pri:0, instance:ClassesPackage.Amazon@163e9ab]" name="startup" is-config="true" duration-ms="7172" started-at="2019-08-06T11:06:06Z" finished-at="2019-08-06T11:06:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="title()[pri:0, instance:ClassesPackage.Amazon@163e9ab]" name="title" duration-ms="57" started-at="2019-08-06T11:06:13Z" finished-at="2019-08-06T11:06:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- title -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:ClassesPackage.Amazon@163e9ab]" name="teardown" is-config="true" duration-ms="950" started-at="2019-08-06T11:06:13Z" finished-at="2019-08-06T11:06:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- ClassesPackage.Amazon -->
+    </test> <!-- Test -->
+  </suite> <!-- TestNgPractice -->
+</testng-results>
